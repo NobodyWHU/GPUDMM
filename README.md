@@ -15,7 +15,7 @@ The classification algorithm we used is `SVM` provided by [scikit](http://scikit
 
 The PMI Coherence should calculated in external corpus, such as `Wikipedia` for English or `Baidu Baike` for Chinese.
 
-The data format describe here:
+The data format is described as follows:
 > docID \t category | content
 
 **example**:
