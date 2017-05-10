@@ -14,8 +14,7 @@ import java.util.PriorityQueue;
 import java.util.Random;
 import java.util.Set;
 
-import GPUDMM.Document;
-import GPUDMM.GSDMM;
+import RatioGPUDMM.Document;
 import RatioGPUDMM.TopicalWordComparator;
 
 public class RatioGPUDMM {
