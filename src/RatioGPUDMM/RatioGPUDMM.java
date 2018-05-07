@@ -42,7 +42,7 @@ public class RatioGPUDMM {
 	public int numDoc;
 	private double[][] schema;
 	public ArrayList<int[]> docToWordIDList;
-	public String initialFileName;  // we use the same initial for DMM-based model
+//	public String initialFileName;  
 	public double[][] phi;
 	private double[] pz;
 	private double[][] pdz;
@@ -737,7 +737,6 @@ public class RatioGPUDMM {
 				//here
 				gsdmm.filterSize = filterSize;
 				gsdmm.roundIndex = round;
-				gsdmm.initialFileName = initialFileName;
 				gsdmm.similarityFileName = similarityFileName;
 				gsdmm.weight = weight;
 				gsdmm.initNewModel();
