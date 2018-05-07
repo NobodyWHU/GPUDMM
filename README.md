@@ -3,7 +3,7 @@
 The implementations of the GPUDMM topic models, as described in 2016 SIGIR paper:
 
 **Topic Modeling for Short Texts with Auxiliary Word Embeddings.**
-Haoran Wang, Chenliang Li, Zhiqian Zhang, Aixin Sun, Zongyang Ma.
+Chenliang Li, Haoran Wang, Zhiqian Zhang, Aixin Sun, Zongyang Ma.
 
 ## Description
 
